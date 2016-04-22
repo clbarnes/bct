@@ -7,14 +7,30 @@ The Brain Connectivity Toolbox
 is a MATLAB toolbox for complex-network analysis of structural and
 functional brain-connectivity data sets.
 
-###Reference and citation
+## Installation
+
+#### With git
+
+Just type this command into your terminal:
+
+`git clone git@github.com/clbarnes/unofficial-bct.git`
+
+If you don't have `git`, [get it](https://git-scm.com/downloads)!
+
+Make sure you add the `BCT/` directory to your matlab path.
+
+#### As a .zip
+
+[Download the BCT in zip form](https://sites.google.com/site/bctnet/Home/functions/BCT.zip?attredirects=0).
+
+## Reference and citation
 
 [Complex network measures of brain connectivity: Uses and
 interpretations.](http://dx.doi.org/10.1016/j.neuroimage.2009.10.003)
 
 Rubinov M, Sporns O (2010) NeuroImage 52:1059-69.
 
-### Brain Connectivity Toolbox in other projects
+## Brain Connectivity Toolbox in other projects
 
 The Brain Connectivity Toolbox codebase is widely used by brain-imaging
 researchers, and has been wholly or partially ported to, or included in,
