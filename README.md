@@ -1,6 +1,6 @@
-# unofficial-bct
+# bct
 
-*An unofficial github repository for the Brain Connectivity Toolbox*
+*A github repository for the Brain Connectivity Toolbox*
 
 The Brain Connectivity Toolbox
 ([brain-connectivity-toolbox.net](http://www.brain-connectivity-toolbox.net/))
@@ -13,7 +13,7 @@ functional brain-connectivity data sets.
 
 Just type this command into your terminal:
 
-`git clone git@github.com/clbarnes/unofficial-bct.git`
+`git clone git@github.com/mikarubi/bct.git`
 
 If you don't have `git`, [get it](https://git-scm.com/downloads)!
 
