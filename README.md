@@ -1,3 +1,6 @@
+**N.B. The organisational changes represented here were not accepted upstream.**
+**Therefore, this repo cannot easily be kept up to date and has been archived.**
+
 # bct
 
 *A github repository for the Brain Connectivity Toolbox*
